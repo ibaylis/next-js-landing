@@ -8,8 +8,12 @@
     "start": "next start"
   },
   "dependencies": {
+    "gray-matter": "^4.0.2",
+    "marked": "^1.2.8",
+    "moment": "^2.29.1",
     "next": "10.0.5",
     "react": "17.0.1",
-    "react-dom": "17.0.1"
+    "react-dom": "17.0.1",
+    "sass": "^1.32.5"
   }
 }
